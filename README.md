@@ -1,4 +1,4 @@
-# XScript-->xccscript
+# XScript--二次开发-->xccscript
 
 **面向 Android 的 Python 自动化开发平台。**
 
